@@ -1,1 +1,2 @@
-# new-00
+it is a linux server
+this is a new creator
