@@ -1,6 +1,6 @@
 this is main sources
 there are many files
-this is  new repository
+this is  new  main repository
 this is feature 1
 this is feature 2
 this is new branch 
